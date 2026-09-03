@@ -2,12 +2,40 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-## 👨‍💻 About Me
+# Welcome! 👋
+Technical Stack:
+  languages: 
+    - Python
+    - TypeScript
+    - C
+    - C++
+    - SQL
+    - MATLAB
+  frameworks_and_tools:
+    - Next.js
+    - Redis
+    - SolidWorks
+    - ANSYS
+    - Arduino & ESP32
+    - PCB Design & Assembly
+    - 3D Printing & CNC Machining
 
-```yaml
-name: Christopher Koo
-education: B.A.Sc. Mechatronics Engineering @ University of Waterloo
-expertise: [Hardware-Software Integration, Control Systems, Corporate Strategy]
-technical_interests: [Robotics, Quantitative Finance, Automated Systems]
-personal_interests: [Options Trading, Bouldering, Football Analytics]
-languages: [English, French, Mandarin]
+Ventures and Operations:
+  - [Boyu Protrade](https://boyuprotrade.com/) Full-stack e-commerce engine & admin platform
+  - [Qo Matcha](https://qomatcha.com/): Direct-to-consumer wellness startup
+  - Airbnb Operations: Automated short-term rental management to finance my engineering degree
+
+Domain Focus:
+  - Hardware-Software Integration
+  - Full-Stack Web Architecture
+  - Control Systems
+  - Embedded Systems & IoT
+  - Reliability Engineering & Testing
+
+Off Screen:
+  - Bouldering
+  - Football (Soccer)
+  - Strategy Games
+
+Languages:
+  - English, French, Mandarin
