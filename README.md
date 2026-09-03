@@ -6,7 +6,8 @@
 
 ```yaml
 name: Christopher Koo
-education: Mechatronics Engineering @ University of Waterloo
-focus: Hardware/Software Integration, Control Systems, Corporate Strategy
-interests: [Robotics, Options Trading, Football Manager, Bouldering]
+education: B.A.Sc. Mechatronics Engineering @ University of Waterloo
+expertise: [Hardware-Software Integration, Control Systems, Corporate Strategy]
+technical_interests: [Robotics, Quantitative Finance, Automated Systems]
+personal_interests: [Options Trading, Bouldering, Football Analytics]
 languages: [English, French, Mandarin]
