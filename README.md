@@ -3,39 +3,48 @@
 </p>
 
 # Welcome! 👋
-Technical Stack:
-  Languages:
-    - Python
-    - TypeScript
-    - C
-    - C++
-    - SQL
-    - MATLAB
-  Frameworks_and_Tools:
-    - Next.js
-    - Redis
-    - SolidWorks
-    - ANSYS
-    - Arduino & ESP32
-    - PCB Design & Assembly
-    - 3D Printing & CNC Machining
-    
-Ventures and Operations:
-  - [Boyu Protrade](https://boyuprotrade.com/) Full-stack e-commerce engine & admin platform
-  - [Qo Matcha](https://qomatcha.com/): Direct-to-consumer wellness startup
-  - Airbnb Operations: Automated short-term rental management to finance my engineering degree
 
-Domain Focus:
-  - Hardware-Software Integration
-  - Full-Stack Web Architecture
-  - Control Systems
-  - Embedded Systems & IoT
-  - Reliability Engineering & Testing
+## Technical Stack
 
-Off Screen:
-  - Bouldering
-  - Football (Soccer)
-  - Strategy Games
+- **Languages**
+  - Python
+  - TypeScript
+  - C
+  - C++
+  - SQL
+  - MATLAB
 
-Languages:
-  - English, French, Mandarin
+- **Frameworks & Tools**
+  - Next.js
+  - Redis
+  - SolidWorks
+  - ANSYS
+  - Arduino & ESP32
+  - PCB Design & Assembly
+  - 3D Printing & CNC Machining
+
+## Ventures and Operations
+
+- [Boyu Protrade](https://boyuprotrade.com/) — Full-stack e-commerce engine & admin platform
+- [Qō Matcha](https://qomatcha.com/) — Direct-to-consumer wellness startup
+- **Airbnb Operations** — Automated short-term rental management to finance my engineering degree
+
+## Domain Focus
+
+- Hardware-Software Integration
+- Full-Stack Web Architecture
+- Control Systems
+- Embedded Systems & IoT
+- Reliability Engineering & Testing
+
+## Off Screen
+
+- Bouldering
+- Football (Soccer)
+- Strategy Games
+
+## Languages
+
+- English
+- French
+- Mandarin
