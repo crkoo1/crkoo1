@@ -11,7 +11,7 @@ Technical Stack:
     - C++
     - SQL
     - MATLAB
-  Frameworks & Tools:
+  Frameworks_and_Tools:
     - Next.js
     - Redis
     - SolidWorks
@@ -19,7 +19,7 @@ Technical Stack:
     - Arduino & ESP32
     - PCB Design & Assembly
     - 3D Printing & CNC Machining
-
+    
 Ventures and Operations:
   - [Boyu Protrade](https://boyuprotrade.com/) Full-stack e-commerce engine & admin platform
   - [Qo Matcha](https://qomatcha.com/): Direct-to-consumer wellness startup
