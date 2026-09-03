@@ -4,14 +4,14 @@
 
 # Welcome! 👋
 Technical Stack:
-Languages: 
+  Languages:
     - Python
     - TypeScript
     - C
     - C++
     - SQL
     - MATLAB
-Frameworks_and_tools:
+  Frameworks & Tools:
     - Next.js
     - Redis
     - SolidWorks
