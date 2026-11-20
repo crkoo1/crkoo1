@@ -23,16 +23,15 @@
 - **Frameworks & Tools**
   - Next.js
   - Redis
-  - SolidWorks
+  - SolidWorks, Onshape & Fusion 360
   - ANSYS
   - Arduino & ESP32
-  - PCB Design & Assembly
+  - PCB Design & Assembly using KiCAD
   - 3D Printing & CNC Machining
 
 ## Ventures and Operations
 
 - [Boyu Protrade](https://boyuprotrade.com/) — Full-stack e-commerce engine & admin platform
-- [Qō Matcha](https://qomatcha.com/) — Direct-to-consumer wellness startup
 - **Airbnb Operations** — Automated short-term rental management to finance my engineering degree
 
 ## Domain Focus
